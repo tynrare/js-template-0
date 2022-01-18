@@ -1,1 +1,9 @@
-console.log('Hello world!');
+
+/**
+ * Entry point
+ */
+function main() {
+	//..
+}
+
+main();
